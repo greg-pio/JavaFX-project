@@ -1,0 +1,2 @@
+# JavaFX-project
+school project no. 2 (GUI) - JavaFX project - a game that should derive from Corporation Inc
